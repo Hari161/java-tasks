@@ -1,0 +1,36 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "empcode":111,
+      "type":"part_time",
+      "first_name": "hari",
+      "last_name": "c",
+      "email":"h@Gmail.com"
+    },
+    {
+      "id": 2, 
+      "empcode":222,
+      "type":"permanent",
+      "first_name": "Steve",
+      "last_name": "Palmer",
+      "email": "steve@gmail.com"
+    },
+    {
+      "id": 3, 
+      "empcode":222,
+      "type":"permanent",
+      "first_name": "arun",
+      "last_name": "j",
+      "email": "arun@gmail.com"
+    }, 
+    {
+      "id": 4,
+      "empcode":333,
+      "type":"contract",
+      "first_name": "Ann",
+      "last_name": "Smith",
+      "email": "ann@gmail.com"
+    }
+  ]
+}
